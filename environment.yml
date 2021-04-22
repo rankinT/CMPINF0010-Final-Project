@@ -1,0 +1,9 @@
+name: CMPINF0010-Final-Project
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - vim
+  - geopandas
+  - geopy 
+  - fiona
