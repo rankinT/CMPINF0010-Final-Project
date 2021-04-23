@@ -72,3 +72,36 @@
 [I 12:27:33.005 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 12:32:09.050 NotebookApp] Culling 'idle' kernel 'python3' (f6c2ac41-4e9b-4e40-b214-83bd21b32a8f) with 1 connections due to 625 seconds of inactivity.
+[I 12:32:09.050 NotebookApp] Kernel shutdown: f6c2ac41-4e9b-4e40-b214-83bd21b32a8f
+[W 12:37:09.050 NotebookApp] Culling 'idle' kernel 'python3' (f6a86135-2136-4d05-9214-50e097507f66) with 1 connections due to 614 seconds of inactivity.
+[I 12:37:09.050 NotebookApp] Kernel shutdown: f6a86135-2136-4d05-9214-50e097507f66
+[I 12:37:55.395 NotebookApp] Saving file at /Final.ipynb
+[I 12:37:56.891 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:37:56.892 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:39:07.144 NotebookApp] Saving file at /Final.ipynb
+[I 12:41:07.480 NotebookApp] Saving file at /Final.ipynb
+[I 12:44:24.538 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:24.732 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:26.902 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:31.129 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:46:31.130 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:49:37.260 NotebookApp] Saving file at /Final.ipynb
+[I 12:50:15.247 NotebookApp] Saving file at /Final.ipynb
+[I 12:51:19.326 NotebookApp] Saving file at /Final.ipynb
+[I 12:51:44.451 NotebookApp] Saving file at /Final.ipynb
+[I 12:52:07.549 NotebookApp] Saving file at /Final.ipynb
+[I 12:52:09.891 NotebookApp] Kernel started: a50bedbb-cc38-4b15-a262-b2610203ec9d, name: python3
+[I 12:54:07.777 NotebookApp] Saving file at /Final.ipynb
+[I 12:57:13.012 NotebookApp] Saving file at /Final.ipynb
+[I 12:58:20.856 NotebookApp] Saving file at /Final.ipynb
+[I 12:58:33.210 NotebookApp] Saving file at /Final.ipynb
+[I 12:59:03.705 NotebookApp] Saving file at /Final.ipynb
+[I 12:59:24.540 NotebookApp] Saving file at /Rankin-ForFinal.ipynb
+[W 12:59:24.541 NotebookApp] Notebook Rankin-ForFinal.ipynb is not trusted
+[I 12:59:51.139 NotebookApp] Saving file at /Final.ipynb
+[I 13:00:42.363 NotebookApp] Saving file at /Final.ipynb
+[I 13:00:42.582 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:09.824 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:26.058 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:59.708 NotebookApp] Saving file at /Final.ipynb
