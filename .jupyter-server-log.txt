@@ -1,0 +1,107 @@
+[I 11:58:39.852 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-04-23 11:58:40.744 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.744 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.745 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-23 11:58:40.745 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-23 11:58:40.745 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.745 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-23 11:58:40.745 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-04-23 11:58:40.754 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-04-23 11:58:40.754 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 11:58:40.762 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 11:58:40.764 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 11:58:40.765 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 11:58:40.765 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 11:58:40.765 NotebookApp] http://jupyter-laverntius-2dcmpi-2d0-2dfinal-2dproject-2dhlr3d4du:8888/user/laverntius-cmpi-0-final-project-hlr3d4du/?token=...
+[I 11:58:40.765 NotebookApp]  or http://127.0.0.1:8888/user/laverntius-cmpi-0-final-project-hlr3d4du/?token=...
+[I 11:58:40.765 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:58:40.769 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:58:40.772 NotebookApp] 302 GET /user/laverntius-cmpi-0-final-project-hlr3d4du/ (10.0.3.10) 0.730000ms
+[I 11:58:47.968 NotebookApp] 301 GET /user/laverntius-cmpi-0-final-project-hlr3d4du/static/favicons/favicon.ico (73.250.151.66) 0.550000ms
+[I 2021-04-23 11:58:51.403 LabApp] Build is up to date
+[I 12:00:08.277 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 12:00:08.280 NotebookApp] Notebook Rankin-ForFinal.ipynb is not trusted
+[I 12:00:09.048 NotebookApp] Kernel started: c136da69-272f-41de-8dcb-480733769621, name: python3
+[I 12:00:09.048 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 12:00:09.048 NotebookApp] Culling kernels even with connected clients
+[I 12:00:10.127 NotebookApp] 301 GET /user/laverntius-cmpi-0-final-project-hlr3d4du/static/favicons/favicon-busy-1.ico (73.250.151.66) 0.640000ms
+[I 12:01:19.183 NotebookApp] Creating new file in 
+[I 12:01:22.402 NotebookApp] Saving file at /Rankin-ForFinal.ipynb
+[W 12:01:22.403 NotebookApp] Notebook Rankin-ForFinal.ipynb is not trusted
+[I 12:01:24.241 NotebookApp] Creating new notebook in 
+[I 12:01:24.590 NotebookApp] Kernel started: f6c2ac41-4e9b-4e40-b214-83bd21b32a8f, name: python3
+[I 12:03:24.550 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:05:24.698 NotebookApp] Saving file at /Untitled.ipynb
+[W 12:07:04.119 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:07:04.728 NotebookApp] Kernel started: f6a86135-2136-4d05-9214-50e097507f66, name: python3
+[I 12:07:06.223 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:07:06.224 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:07:13.788 NotebookApp] Saving file at /Final.ipynb
+[I 12:07:14.702 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:07:14.703 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:09:13.932 NotebookApp] Saving file at /Final.ipynb
+[W 12:09:58.387 NotebookApp] 400 GET /user/laverntius-cmpi-0-final-project-hlr3d4du/api/contents/PAAC_Stops_1909%20(2).dbf?format=text&type=file&content=1&1619179797023 (73.250.151.66): /home/jovyan/PAAC_Stops_1909 (2).dbf is not UTF-8 encoded
+[W 12:09:58.388 NotebookApp] /home/jovyan/PAAC_Stops_1909 (2).dbf is not UTF-8 encoded
+[W 12:09:58.389 NotebookApp] 400 GET /user/laverntius-cmpi-0-final-project-hlr3d4du/api/contents/PAAC_Stops_1909%20(2).dbf?format=text&type=file&content=1&1619179797023 (73.250.151.66) 58.740000ms referer=https://hub.gke2.mybinder.org/user/laverntius-cmpi-0-final-project-hlr3d4du/lab/tree/Final.ipynb
+[I 12:10:18.983 NotebookApp] Saving file at /Final.ipynb
+[I 12:10:24.457 NotebookApp] Saving file at /Final.ipynb
+[W 12:11:09.050 NotebookApp] Culling 'idle' kernel 'python3' (c136da69-272f-41de-8dcb-480733769621) with 2 connections due to 655 seconds of inactivity.
+[I 12:11:09.050 NotebookApp] Kernel shutdown: c136da69-272f-41de-8dcb-480733769621
+[I 12:11:21.185 NotebookApp] Saving file at /Final.ipynb
+[I 12:12:13.605 NotebookApp] Saving file at /Final.ipynb
+[I 12:12:35.195 NotebookApp] Saving file at /Final.ipynb
+[I 12:14:35.335 NotebookApp] Saving file at /Final.ipynb
+[I 12:16:35.476 NotebookApp] Saving file at /Final.ipynb
+[I 12:16:56.360 NotebookApp] Kernel restarted: f6c2ac41-4e9b-4e40-b214-83bd21b32a8f
+[I 12:16:56.416 NotebookApp] Starting buffering for f6c2ac41-4e9b-4e40-b214-83bd21b32a8f:ebf8f089-354d-4d64-a7af-20399d8f279d
+[I 12:16:56.568 NotebookApp] Restoring connection for f6c2ac41-4e9b-4e40-b214-83bd21b32a8f:ebf8f089-354d-4d64-a7af-20399d8f279d
+[I 12:16:58.887 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:16:58.888 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:18:35.632 NotebookApp] Saving file at /Final.ipynb
+[I 12:21:25.314 NotebookApp] Saving file at /Final.ipynb
+[I 12:21:44.736 NotebookApp] Saving file at /Final.ipynb
+[I 12:26:42.954 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:26:42.954 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:27:00.629 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:27:00.629 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:27:33.005 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 12:32:09.050 NotebookApp] Culling 'idle' kernel 'python3' (f6c2ac41-4e9b-4e40-b214-83bd21b32a8f) with 1 connections due to 625 seconds of inactivity.
+[I 12:32:09.050 NotebookApp] Kernel shutdown: f6c2ac41-4e9b-4e40-b214-83bd21b32a8f
+[W 12:37:09.050 NotebookApp] Culling 'idle' kernel 'python3' (f6a86135-2136-4d05-9214-50e097507f66) with 1 connections due to 614 seconds of inactivity.
+[I 12:37:09.050 NotebookApp] Kernel shutdown: f6a86135-2136-4d05-9214-50e097507f66
+[I 12:37:55.395 NotebookApp] Saving file at /Final.ipynb
+[I 12:37:56.891 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:37:56.892 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:39:07.144 NotebookApp] Saving file at /Final.ipynb
+[I 12:41:07.480 NotebookApp] Saving file at /Final.ipynb
+[I 12:44:24.538 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:24.732 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:26.902 NotebookApp] Saving file at /Final.ipynb
+[I 12:46:31.129 NotebookApp] Saving file at /Mae-Workspace.ipynb
+[W 12:46:31.130 NotebookApp] Notebook Mae-Workspace.ipynb is not trusted
+[I 12:49:37.260 NotebookApp] Saving file at /Final.ipynb
+[I 12:50:15.247 NotebookApp] Saving file at /Final.ipynb
+[I 12:51:19.326 NotebookApp] Saving file at /Final.ipynb
+[I 12:51:44.451 NotebookApp] Saving file at /Final.ipynb
+[I 12:52:07.549 NotebookApp] Saving file at /Final.ipynb
+[I 12:52:09.891 NotebookApp] Kernel started: a50bedbb-cc38-4b15-a262-b2610203ec9d, name: python3
+[I 12:54:07.777 NotebookApp] Saving file at /Final.ipynb
+[I 12:57:13.012 NotebookApp] Saving file at /Final.ipynb
+[I 12:58:20.856 NotebookApp] Saving file at /Final.ipynb
+[I 12:58:33.210 NotebookApp] Saving file at /Final.ipynb
+[I 12:59:03.705 NotebookApp] Saving file at /Final.ipynb
+[I 12:59:24.540 NotebookApp] Saving file at /Rankin-ForFinal.ipynb
+[W 12:59:24.541 NotebookApp] Notebook Rankin-ForFinal.ipynb is not trusted
+[I 12:59:51.139 NotebookApp] Saving file at /Final.ipynb
+[I 13:00:42.363 NotebookApp] Saving file at /Final.ipynb
+[I 13:00:42.582 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:09.824 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:26.058 NotebookApp] Saving file at /Final.ipynb
+[I 13:01:59.708 NotebookApp] Saving file at /Final.ipynb
